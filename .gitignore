@@ -1,0 +1,13 @@
+.DS_*
+
+node_modules
+
+workspace
+
+*.log
+
+npm-debug.*
+coverage
+
+*sublime*
+sessions
